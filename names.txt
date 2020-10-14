@@ -1,1 +1,2 @@
-ymu27, Mu, Yudi
+role, NetID, FamilyName, GivenName
+boss, ymu27, Mu,         Yudi
